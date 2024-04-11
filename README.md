@@ -2,6 +2,10 @@
   <br>
   <br>
   <br>
+  <img src="https://github.com/CronixZero/CronixZero/blob/main/assets/anya.png" width="350" />
+  <br>
+  <br>
+  <br>
   <samp>
     Hey, I'm <a href="https://github.com/CronixZero">Cronix</a>.
     <br>A Full Stack Developer who also tinkers in System Administration.
@@ -14,5 +18,5 @@
   </samp>
   <br>
   <br>
-  <img src="https://github.com/CronixZero/CronixZero/blob/main/assets/anya.png" width="350" />
+  <br>
 </p>
