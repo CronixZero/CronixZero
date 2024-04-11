@@ -13,6 +13,7 @@
     <br>
     <br><kbd>❤️ Java</kbd>
         <kbd>🐳 Docker</kbd>
+        <kbd>🪼 Kubernetes</kbd>
         <kbd>📖 Typescript</kbd>
         <kbd>🦥 React</kbd>
   </samp>
