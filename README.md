@@ -21,3 +21,6 @@
   <br>
   <br>
 </p>
+<p align="right">
+  <img src="https://github.com/CronixZero/CronixZero/blob/main/assets/toothless.png" width="100" />
+</p>
